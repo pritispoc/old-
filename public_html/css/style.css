@@ -315,6 +315,7 @@ body {
 /* ====== MAIN ====== */
 /* ====== FOOTER - Priti ====== */
 footer {
-  background-color: #666666;
+  background-color: #d9d9d9;
+  color: senary-color;
   text-align: center;
   padding: 1em; }
